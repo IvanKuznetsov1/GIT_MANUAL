@@ -22,4 +22,4 @@
 
      echo ".gitignore" >> .gitignore 
 
-[Следующая.](commit.md) 
+[Следующая.](command.md) 
