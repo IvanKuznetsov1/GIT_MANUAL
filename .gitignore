@@ -1,1 +1,8 @@
 # Invisible files and directories
+*.txt
+/error
+?data.md
+log/text
+log/!text
+access.[0-2].log
+123/**
